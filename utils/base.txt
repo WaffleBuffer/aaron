@@ -1,0 +1,8 @@
+USERS(#ID_USER, IDENTIFIANT, EMAIL, PASSWORD, DATE_INSCRIPTION, ACTIVATION, GRADE_USER)
+ID_USER est la clé primaire interne, pas besoin de la spécifier,
+IDENTIFIANT et EMAIL sont unique,
+IDENTIFIANT limité à 30 charactères
+EMAIL limité à 60 charactères,
+PASSWORD : 512 charactères (Hasher avec sha512).
+
+Pour l'inscription besoin de : IDENTIFIANT, EMAIL, PASSWORD

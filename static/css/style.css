@@ -1,0 +1,23 @@
+html{
+	background-image: url("../images/backgroundblue.jpg");
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	color: white;
+}
+
+#ancrage{
+	color: red;
+	right: 2px;
+	bottom: 0;
+	position: fixed;
+}
+
+#titre{
+	text-align: center;
+}
+
+a{
+	color: white;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8ab876d7-5ad4-4f8b-9c0c-4a4f4a0250bd" name="aaron.tixp.eu" url="http://ftp.tixp.eu">
+        <fileTransfer host="ftp.tixp.eu" port="21" username="tixpeucwlj">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
